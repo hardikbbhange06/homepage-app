@@ -1,0 +1,12 @@
+@media screen and (max-width: 850px) {
+    Typography {
+      display: flex;
+      width: "1%";
+    }
+  }
+
+  @media screen and (max-width: 450px) {
+    Typography {
+      display: flex;
+    }
+  }

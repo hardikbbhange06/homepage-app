@@ -1,0 +1,69 @@
+.hr{
+    height: 25px;
+    width: 3px;
+    background-color: black;
+}
+.red{
+    color: red;
+}
+.Book{
+    /* display: flex; */
+    justify-content: center;
+    /* margin-left: 40%; */
+    /* margin-top: 10px; */
+    padding-top: 10px;
+    /* padding: 10px; */
+    margin: auto;
+    /* border: 3px solid green; */
+    width: 30%;
+    text-align: center;
+    margin-bottom: 10px;
+
+    height: 300px;
+    
+}
+/* .E{
+    margin-left: 110px;
+} */
+.H{
+    margin-left: 15px;
+}
+
+.bo12{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    margin-top: -123px;
+
+
+}
+.banner2{
+    height:355px;
+    margin-top: 90px;
+    background-image: url("./shape1..png");
+    background-color: bisque;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row align-items-center{
+    /* display: flex; */
+}
+
+
+@media screen and (max-width: 850px) {
+    .hr{
+        height: 5px;
+        width: 3px;
+        background-color: black;
+    }
+    .red{
+        color: red;
+    }
+    
+   
+   
+    
+}
+
+

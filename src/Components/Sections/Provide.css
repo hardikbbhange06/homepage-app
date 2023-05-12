@@ -1,0 +1,25 @@
+.card1{
+    display:flex;
+    margin:65px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+.ca{
+    margin-left: 40px;
+    /* align-items: center; */
+    margin-top: 15px;
+}
+.su{
+  margin-left: 41%;
+  text-decoration: underline red;
+  
+}
+.vi{
+    display: flex;
+    justify-content: end;
+    margin-right: 70px;
+    margin-top: -75px;
+    /* margin-bottom: 10px; */
+}
+

@@ -1,0 +1,23 @@
+.roww{
+    display: flex; 
+    padding: 100px;
+   justify-content: space-between;
+}
+.footer{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: brown;
+    color:white;
+}
+.footer ul li a{
+    color: white;
+}
+.footer ul li a:hover{
+    color: rgb(58, 11, 244);
+}
+.iiii{
+    color: antiquewhite;
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 10%;
+}
